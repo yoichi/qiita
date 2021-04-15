@@ -1,5 +1,6 @@
 `git worktree` を使うと、一つのローカルリポジトリで作業ツリーを複数同時に持てる。
 このコマンドは Git 2.5.0 から導入されている。
+[Git - git-worktree Documentation](https://git-scm.com/docs/git-worktree)
 
 既存のブランチを新たな作業ツリーとしてチェックアウトしたい場合、
 
